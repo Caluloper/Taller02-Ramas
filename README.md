@@ -4,9 +4,10 @@
 3. Integrante 1 (Iván Cedeño)
 ![image](https://github.com/user-attachments/assets/83828384-c5bc-4fc0-b953-b0051c12275f)
 5. Integrante 2 (Ángel Pilataxi)
-![image](https://github.com/user-attachments/assets/8adb9ec3-c8d8-47b0-861f-11f75d48eedf)
+![Integrante 2](https://github.com/user-attachments/assets/9c7cec16-85e1-419c-bbe4-1b2c9cd9d885)
 7. Integrante 3 (Sebastián Barco)
-![barcodd](https://github.com/user-attachments/assets/7c93680f-cdba-4929-b7e3-d84a6f6faa21)
+![integrante 3 ](https://github.com/user-attachments/assets/b9a96155-d972-4b50-b56c-17fb2c87b0cf)
+
 
 RESULTADO
 ![reusltaod](https://github.com/user-attachments/assets/d6f5cb6f-bbf6-49c7-9654-1223a9753a02)
