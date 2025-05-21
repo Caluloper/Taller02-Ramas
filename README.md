@@ -7,3 +7,6 @@
 ![image](https://github.com/user-attachments/assets/8adb9ec3-c8d8-47b0-861f-11f75d48eedf)
 7. Integrante 3 (Sebastián Barco)
 ![barcodd](https://github.com/user-attachments/assets/7c93680f-cdba-4929-b7e3-d84a6f6faa21)
+
+RESULTADO
+![reusltaod](https://github.com/user-attachments/assets/d6f5cb6f-bbf6-49c7-9654-1223a9753a02)
