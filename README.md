@@ -1,1 +1,10 @@
 # Taller02-Ramas
+![image](https://github.com/user-attachments/assets/28b4f801-f864-437f-9a02-8ef8e7cfdfaa)
+1. Lider (Carlos López)
+![image](https://github.com/user-attachments/assets/4002dec1-710c-4439-b6ba-b7f163f1fbc5)
+3. Integrante 1 (Iván Cedeño)
+![image](https://github.com/user-attachments/assets/83828384-c5bc-4fc0-b953-b0051c12275f)
+5. Integrante 2 (Ángel Pilataxi)
+![image](https://github.com/user-attachments/assets/8adb9ec3-c8d8-47b0-861f-11f75d48eedf)
+7. Integrante 3 (Sebastián Barco)
+![image](https://github.com/user-attachments/assets/2ac33e46-659b-4309-87ed-fa4a281f7a35)
