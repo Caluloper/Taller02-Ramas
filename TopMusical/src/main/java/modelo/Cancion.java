@@ -77,7 +77,7 @@ public class Cancion implements Comparable<Cancion> {
                 for (String h:historial){
                     listaHistorial.add(Integer.valueOf(h));
                 }
-                Cancion c = new Cancion(datos[0], datos[1], datos[2], Integer.valueOf(datos[3]), Integer.valueOf(datos[4]), Integer.valueOf(datos[5]),  listaHistorial);
+                Cancion c = new Cancion(datos[1], datos[0],  datos[2], Integer.valueOf(datos[3]), Integer.valueOf(datos[4]), Integer.valueOf(datos[5]),  listaHistorial);
                 lista.add(c);
             }
         } catch (FileNotFoundException ex) {
@@ -87,10 +87,10 @@ public class Cancion implements Comparable<Cancion> {
         }
 
         /*  String s = "20,4,3,2,1,1,1,1,1,1,1,1";
-        Cancion c = new Cancion("Anti-Hero","TayLor Swift","antihero.jpg",1,1,1,12,new ArrayList<>(Arrays.asList(s.split(","))));
+        Cancion c = new Cancion("TayLor Swift","Anti-Hero","antihero.jpg",1,1,1,12,new ArrayList<>(Arrays.asList(s.split(","))));
         lista.add(c);
         s = "15,10,7,3,2,1,2,3";
-        Cancion c2 = new Cancion("Unholy","Sam Smith & Kim Petras","unholy.jpg",3,2,1,8,new ArrayList<>(Arrays.asList(s.split(","))));
+        Cancion c2 = new Cancion("Sam Smith & Kim Petras","Unholy","unholy.jpg",3,2,1,8,new ArrayList<>(Arrays.asList(s.split(","))));
         lista.add(c2);*/
         return lista;
     }
